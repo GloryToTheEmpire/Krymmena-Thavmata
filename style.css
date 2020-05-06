@@ -1,0 +1,115 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://www.itl.cat/pngfile/big/0-7755_nature-pier-bridge-d-river-water-sunset-night.jpg");
+	height:100vh;
+	background-size:cover;
+	background-size:cover;
+	background-position:center center;
+	position:relative;
+	background-repeat:no-repeat;
+	overflow:hidden;
+}
+.wrapper{
+	width:1170px;
+	margin:auto;
+}
+.nav-area{
+	float:right;
+	list-style:none;
+	margin-top:none;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	background-color:#ADEFD1FF;
+}
+.nav-area li{
+	display:inline-block;
+}
+.nav-area li a{
+	color:#00203FFF;
+	text-decoration:none;
+	padding:5px 20px;
+	font-family:'Rajdhani', sans-serif;
+	font-size:20px;
+}
+.nav-area li a:hover{
+	background:#00203FFF;
+	color:#ADEFD1FF;
+}
+
+.logo img{
+	width:100px;
+	float:left;
+	height:auto;
+	margin-top:30px;
+	border: 5px ridge sandybrown;
+}
+.welcome-text{
+	position:absolute;
+	width:600px;
+	height:300px;
+	margin:20% 30%;
+	text-align:center;
+	font-family:'Rajdhani', sans-serif;
+	color:white;
+}
+.welcome-text h1{
+	text-align:center;
+	font-size:60px;
+}
+.welcome-text h2{
+	padding:10px 25px;
+	font-size:30px;
+	margin-top:20px;
+	display:inline-block;
+
+}
+
+/*Sources*/
+
+.sourcesTitle{
+	text-align:center;
+	font-family:'Rajdhani', sans-serif;
+	padding-top:20px;
+	background-color:#ADEFD1FF;
+	line-height:1.8;
+}
+.divider{
+	background-color:#00203FFF;
+	color:#00203FFF;
+	text-align:center;
+}
+.websiteSources{
+	font-family:'Rajdhani', sans-serif;
+	font-size:30px;
+	text-align:center;
+	background-color:#ADEFD1FF;
+	padding-top:20px;
+	padding-left:20px;
+	padding-right: :20px;
+	padding-bottom:20px;
+}
+.websiteSources ul li{
+	display:inline-block;
+}
+.websiteSources ul li a{
+	text-decoration:none;
+	border:5px outset #00203FFF;
+	border-radius:8px;
+	color:#00203FFF;
+}
+.websiteSources ul li a:hover{
+	border:5px inset #00203FFF;
+	border-radius:8px;
+	background-color:#00203FFF;
+	color:#ADEFD1FF;
+}
+.sources{
+	text-align:center;
+	margin-top:300px;
+
+}
