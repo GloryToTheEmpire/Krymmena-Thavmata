@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hidden Wonders</title>
+	<link rel = "stylesheet" type = "text/css" href = "hiddenwondersstyle.css">
+  	<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header>
+	    <nav class = "wrapper">
+	      <div class = "logo">
+	        <img src = "file:///C:/Users/abhil/Downloads/Free_Sample_By_Wix.jpg">
+	      </div>
+	      <div class = "nav-area">
+		      <ul>
+		        <li><a href = "hidden wonders.html">Home</a></li>
+		        <li><a href = "hwsources.html">Sources</a></li>
+		        <li><a href = "#">Northeast</a></li>
+		        <li><a href = "#">Southern</a></li>
+		        <li><a href = "#">Midwest</a></li>
+		        <li><a href = "#">Western</a></li>
+		        <li><a href = "#">Non-Contiguous United States</a></li>
+		      </ul>
+	      </div>
+	    </nav>
+  	</header>
+  	<div class = "sources">
+    	<h2 class = "sourcesTitle">All websites get their research from somewhere out in the Web. So on behalf of <b>Krymmena Thavmata</b>, we say thank you to the most important websites that have the largest contribution to the making of this website.</h2>
+    	<div class = "divider">-------------------------------------</div>
+	    	<div class = "mainSources">
+		    	<div class = "websiteSources">
+		    		<ul>
+		    			<li><a href = "https://www.atlasobscura.com/">Atlas Obscura</a></li>
+		    			<li><a href = "https://www.google.com/maps">Google Maps</a></li>
+		    		</ul>
+		    	</div>
+		    	<div class = "imageSources">
+
+		    	</div>
+		    </div>
+	</div>
+</body>
+</html>
